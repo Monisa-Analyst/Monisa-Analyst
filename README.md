@@ -55,6 +55,12 @@ An automation platform designed to assist Tier-1 security analysts by parsing se
 *   📁 **[GitHub Repository](https://github.com/Monisa-Analyst/ai-soc-analyst)**
 *   **Key Tech:** Python, Streamlit, SQLite, VirusTotal API, OpenAI API (`gpt-3.5-turbo`), Compliance Logging (JSONL)
 
+### 3. CareMetrics: Hospital Patient Analytics & Operational Insights
+An end-to-end data analytics and business intelligence platform that normalizes raw patient admissions records into a SQLite star schema database. Features an automated ingestion engine with fuzzy column mapping and a 9-point data quality audit gate. Includes a multi-page interactive Streamlit dashboard displaying executive KPI summaries, workload ranking analytics using SQL Window Functions and CTEs, and a live data submission interface.
+*   👉 **[Click to Open Live Web Application](https://caremetrics.streamlit.app/)**
+*   📁 **[GitHub Repository](https://github.com/Monisa-Analyst/hospital-patient-analytics)**
+*   **Key Tech:** Python, Pandas, SQLite, Data Quality Engineering, Streamlit, Plotly, SQL (CTEs, Window Functions, Joins)
+
 ---
 
 ## 📬 Contact & Connections
