@@ -26,4 +26,4 @@ A Python security analysis tool designed to streamline incident response workflo
 
 ### Get in Touch
 * 📧 Email: monisa.asi@gmail.com
-* 💼 [LinkedIn](https://www.linkedin.com/in/monisa-l) *(Update this link with your actual URL if needed!)*
+* 💼 [LinkedIn](https://www.linkedin.com/in/monisa-l-333546366)
