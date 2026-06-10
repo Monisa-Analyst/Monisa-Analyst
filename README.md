@@ -62,6 +62,12 @@ An end-to-end data analytics and business intelligence platform that normalizes 
 *   📁 **[GitHub Repository](https://github.com/Monisa-Analyst/hospital-patient-analytics)**
 *   **Key Tech:** Python, Pandas, SQLite, Data Quality Engineering, Streamlit, Plotly, SQL (CTEs, Window Functions, Joins)
 
+### 4. FinSight: Financial Performance & Profitability Analytics
+An end-to-end financial data engineering and business intelligence platform that reconciles daily transaction records against monthly budget targets. Features an automated ingestion engine with fuzzy header mapping and a 9-point data quality gate, a programmatically compiled Excel model (`financial_analysis.xlsx`) with native Excel formulas, and a multi-page interactive Streamlit dashboard displaying MoM growth, running totals, and departmental budget variances using SQL Window Functions, CTEs, and Joins.
+*   👉 **[Click to Open Live Web Application](https://financial-performance-analytics.streamlit.app/)**
+*   📁 **[GitHub Repository](https://github.com/Monisa-Analyst/financial-performance-analytics)**
+*   **Key Tech:** Python, openpyxl (Excel modeling), SQLite, Data Quality Engineering, Streamlit, Plotly, SQL (CTEs, Window Functions, Running Totals)
+
 ---
 
 ## 📬 Contact & Connections
