@@ -10,7 +10,7 @@ With a strong foundation in statistical analysis and system logs, I focus on tur
 
 ## 📈 Professional Experience
 
-### **SOC Analyst Trainee** | C-Expert
+### **SOC Analyst Trainee** | SIEM Expert
 *   **Log Analytics & ETL:** Cleaned, structured, and transformed raw network event logs, parsing **10,000+ daily events** to identify behavioral anomalies.
 *   **Operational Dashboarding:** Developed **5+ interactive monitoring dashboards** (Splunk & Python) to track security events, improving team monitoring efficiency by **30%**.
 *   **Incident Response Support:** Investigated alert context and collaborated with security engineers to streamline triage workflows.
