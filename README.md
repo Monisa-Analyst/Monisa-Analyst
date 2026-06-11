@@ -57,14 +57,13 @@ An automation platform designed to assist Tier-1 security analysts by parsing se
 
 ### 3. CareMetrics: Hospital Patient Analytics & Operational Insights
 An end-to-end data analytics and business intelligence platform that normalizes raw patient admissions records into a SQLite star schema database. Features an automated ingestion engine with fuzzy column mapping and a 9-point data quality audit gate. Includes a multi-page interactive Streamlit dashboard displaying executive KPI summaries, workload ranking analytics using SQL Window Functions and CTEs, and a live data submission interface.
-*   👉 **[Click to Open Live Web Application](https://hospital-patient-analytics-g3y9adygc34e9aesbusvec.streamlit.app)**
-
+*   👉 **[Click to Open Live Web Application](https://share.streamlit.io/monisa-analyst/hospital-patient-analytics/main/src/app.py)**
 *   📁 **[GitHub Repository](https://github.com/Monisa-Analyst/hospital-patient-analytics)**
 *   **Key Tech:** Python, Pandas, SQLite, Data Quality Engineering, Streamlit, Plotly, SQL (CTEs, Window Functions, Joins)
-
+ 
 ### 4. FinSight: Financial Performance & Profitability Analytics
 An end-to-end financial data engineering and business intelligence platform that reconciles daily transaction records against monthly budget targets. Features an automated ingestion engine with fuzzy header mapping and a 9-point data quality gate, a programmatically compiled Excel model (`financial_analysis.xlsx`) with native Excel formulas, and a multi-page interactive Streamlit dashboard displaying MoM growth, running totals, and departmental budget variances using SQL Window Functions, CTEs, and Joins.
-*   👉 **[Click to Open Live Web Application](https://financial-performance-analytics.streamlit.app/)**
+*   👉 **[Click to Open Live Web Application](https://share.streamlit.io/monisa-analyst/financial-performance-analytics/main/src/app.py)**
 *   📁 **[GitHub Repository](https://github.com/Monisa-Analyst/financial-performance-analytics)**
 *   **Key Tech:** Python, openpyxl (Excel modeling), SQLite, Data Quality Engineering, Streamlit, Plotly, SQL (CTEs, Window Functions, Running Totals)
 
