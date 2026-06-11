@@ -62,10 +62,10 @@ An end-to-end data analytics and business intelligence platform that normalizes 
 *   **Key Tech:** Python, Pandas, SQLite, Data Quality Engineering, Streamlit, Plotly, SQL (CTEs, Window Functions, Joins)
  
 ### 4. FinSight: Financial Performance & Profitability Analytics
-An end-to-end financial data engineering and business intelligence platform that reconciles daily transaction records against monthly budget targets. Features an automated ingestion engine with fuzzy header mapping and a 9-point data quality gate, a programmatically compiled Excel model (`financial_analysis.xlsx`) with native Excel formulas, and a multi-page interactive Streamlit dashboard displaying MoM growth, running totals, and departmental budget variances using SQL Window Functions, CTEs, and Joins.
+An end-to-end corporate financial analytics and business intelligence platform that ingests transactional batches, performs data quality audits, and reconciles monthly budgets. FinSight replaces traditional SQL databases with a formula-driven Excel backend (`financial_analysis.xlsx`) and a documented Power BI Star Schema integration. Features a multi-page Streamlit dashboard driven by Pandas analytics, a 9-point ingestion quality gate, a dedicated Power BI / DAX measure showcase (Total Revenue, MoM Growth, Net Revenue Retention cohorts, and invoicing conversion rate), and programmatically compiled report sheets driven by dynamic Excel formulas (`SUMIFS`, `XLOOKUP`, `INDEX & MATCH`).
 *   👉 <a href="https://share.streamlit.io/monisa-analyst/financial-performance-analytics/main/src/app.py/" rel="noreferrer" target="_blank">**Click to Open Live Web Application**</a>
 *   📁 **[GitHub Repository](https://github.com/Monisa-Analyst/financial-performance-analytics)**
-*   **Key Tech:** Python, openpyxl (Excel modeling), SQLite, Data Quality Engineering, Streamlit, Plotly, SQL (CTEs, Window Functions, Running Totals)
+*   **Key Tech:** Python, openpyxl (Excel modeling), Power BI & DAX, Pandas (Aggregation & Analytics), Streamlit, Plotly, Data Quality Engineering
 
 ---
 
