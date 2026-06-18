@@ -43,11 +43,11 @@ With a strong foundation in statistical analysis and system logs, I focus on tur
 
 ## 🚀 Featured Projects
 
-### 1. Sales Insights & AI Query Assistant
-An end-to-end data engineering and BI platform that normalizes ~50K retail records into a star schema database with interactive Streamlit dashboards. Features a **live data ingestion pipeline** — anyone can upload CSV/Excel files through the web interface, and the system automatically cleans, validates (9 SQL consistency checks), and merges the data. Batches are scored and auto-accepted, flagged for review, or rejected based on quality thresholds. Also includes a conversational AI query assistant powered by Claude API.
-*   👉 **[Click to Open Live Web Application](https://share.streamlit.io/monisa-analyst/sales-insights-dashboard/main/src/app.py)**
-*   📁 **[GitHub Repository](https://github.com/Monisa-Analyst/sales-insights-dashboard)**
-*   **Key Tech:** Python, Pandas, SQLite, Data Quality Engineering, Anthropic Claude API, Streamlit, Plotly
+### 1. B2B Manufacturing Supply Chain Network Flow & Inventory Placement Optimization
+An end-to-end supply chain BI and data engineering project optimizing inventory placement, network flow, and demand forecasting. Features a stateful Python ETL pipeline that normalizes raw, semi-structured Tally ERP ledger exports into a clean SQL Star Schema. Implements advanced SQL queries and DAX measures to track critical logistics KPIs including **Out-of-Region (OOR) Shipment Rates** and **Inventory Placement Efficiency**. Includes a daily rolling demand forecasting engine (Moving Averages and Linear Trend Regressions) with Z-score anomaly alerts, and designs a 5-page Power BI dashboard mock-up for safety stock margin buffers and delivery backlog root cause analysis.
+*   📁 **[GitHub Repository](https://github.com/Monisa-Analyst/B2B-Supply-Chain-Analytics)**
+*   **Key Tech:** Python (Pandas, NumPy), SQL (Redshift/PostgreSQL), Power BI & DAX, Supply Chain Analytics, Demand Forecasting, Anomaly Detection, ETL Ingestion
+
 
 ### 2. Sentinel: SOC Incident Ingestion & Triage Platform
 An automation platform designed to assist Tier-1 security analysts by parsing security alert logs, querying external threat intelligence databases (VirusTotal API v3), mapping events to MITRE ATT&CK techniques, and producing AI-summarized incident reports.
