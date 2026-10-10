@@ -151,9 +151,4 @@ Data Science graduate (**BCA '26**) with practical experience in **Python, SQL, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Monisa_L-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/monisa-l)
 [![GitHub](https://img.shields.io/badge/GitHub-Monisa--Analyst-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Monisa-Analyst)
 
-<br/>
-
-![Monisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Monisa-Analyst&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Monisa-Analyst&layout=compact&theme=tokyonight&hide_border=true)
-
 </div>
