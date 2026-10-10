@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### **Data Analyst | Data Science Specialist**
+### **Data Analyst | Data Science Graduate**
 *Transforming Raw Business Ledgers & Operational Logs into Strategic Business Intelligence*
 
 📍 **Bengaluru, Karnataka, India** | 📧 [monisa.asi@gmail.com](mailto:monisa.asi@gmail.com) | 📞 +91 8610601097  
