@@ -1,86 +1,112 @@
-# Monisa L
+# Hi there, I'm Monisa L 👋
 
-### Data Analyst | Data Science Graduate
+<div align="center">
 
-I am a Data Analyst with hands-on internship experience across SQL, Python, Power BI, and Excel. Skilled in building dashboards, automating data quality workflows, and translating raw data into actionable business and security insights.
-
----
-
-## Professional Experience
-
-### Data Analyst Intern | Anand Engineering (Bengaluru, India)
-*04/2026 - 07/2026*
-* Designed a data quality framework for 20,000+ records, improving accuracy and completeness by 25%.
-* Automated validation and reconciliation workflows, cutting reporting discrepancies by 30%.
-* Built SQL-based quality checks, catching 200+ data issues pre-publication and preventing flawed dashboards.
-* Created a centralized data dictionary and governance standards, reducing cross-team confusion and improving reporting consistency.
-
-### SOC Analyst Intern | World Sec (Remote)
-*08/2025 - 04/2026*
-* Analyzed 10,000+ daily log records using Splunk to identify security and operational trends.
-* Built 5+ interactive dashboards for real-time monitoring, improving efficiency by ~30%.
-* Performed EDA on firewall and system logs to detect patterns and reduce false positives by ~20%.
-* Integrated OpenAI API, VirusTotal, and MITRE ATT&CK data sources into analysis workflows.
-* Generated severity classifications and response recommendations using Python.
-
-### Data Analysis Intern | Subhash Interiors (Bengaluru, India)
-*06/2025 - 07/2025*
-* Analyzed and transformed 20,000+ business records using Excel (Pivot Tables, XLOOKUP, INDEX-MATCH, Power Query), improving data accuracy by 25%.
-* Designed and maintained 5+ interactive Power BI dashboards with DAX measures and KPI tracking, reducing manual reporting effort by 40%.
-* Conducted KPI and trend analysis on sales and operational data, contributing to a 15% improvement in decision-making efficiency.
-* Automated data preparation and reporting workflows using Power Query and Excel, reducing report generation time by 50%.
+### **Data Analyst | Data Science Graduate**
+📍 **Bengaluru, Karnataka, India** | 📧 [monisa.asi@gmail.com](mailto:monisa.asi@gmail.com) | 📞 +91 8610601097  
+🔗 [LinkedIn](https://linkedin.com/in/monisa-l) | 🐙 [GitHub Profile](https://github.com/Monisa-Analyst)
 
 ---
 
-## Technical Skills & Toolkit
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/Monisa-Analyst)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Monisa-Analyst)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/Monisa-Analyst)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/Monisa-Analyst)
+[![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)](https://github.com/Monisa-Analyst)
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://github.com/Monisa-Analyst)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://github.com/Monisa-Analyst)
+
+</div>
+
+---
+
+## 🙋‍♀️ About Me
+
+Data Science graduate of 2026 (BCA) with hands-on experience in **Python, SQL, and Power BI** for data cleaning, exploratory analysis, and KPI reporting. Built a SQL data quality framework, RFM and Pareto customer analytics on 1,839 transactions, and Streamlit KPI reporting.
+
+- 🎓 **Education**: BCA + Data Science at *Jyoti Nivas College Autonomous, Bengaluru* (Graduating May 2026)
+- 💼 **Experience**: Data Analyst Intern @ Anand Engineering & Subhash Interiors | SOC Analyst Intern @ World Sec
+- 🔭 **Core Strengths**: Data Quality Auditing, Star-Schema Data Modeling, ETL Workflows, Customer Segmentation & KPI Reporting
+- 📫 **How to reach me**: [monisa.asi@gmail.com](mailto:monisa.asi@gmail.com) | +91 8610601097
+
+---
+
+## 🛠️ Technical Skills
 
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Programming Languages** | Python, R, SQL (PostgreSQL, SQLite, MySQL) |
-| **Data Analysis & Statistics** | Exploratory Data Analysis (EDA), Statistical Modeling, Hypothesis Testing, Funnel & Cohort Analysis, A/B Testing |
-| **Libraries & Frameworks** | Pandas, NumPy, Scikit-learn, SciPy, Statsmodels, requests |
-| **Data Visualization & BI** | Power BI (DAX, Star Schemas), Microsoft Excel, Power Query, Plotly, Seaborn, Matplotlib |
-| **Security & Infrastructure** | Splunk, Log Analysis, Threat Intelligence Correlation, AWS, API Integration, Git, Command Line |
-| **Other Skills** | ETL, Data Governance, Prompt Engineering |
+| **Languages & Databases** | `SQL`, `Python`, `R` |
+| **Business Intelligence & Viz** | `Power BI`, `Excel (Pivot, XLOOKUP, INDEX-MATCH, Power Query)`, `Streamlit` |
+| **Analytical Methods** | Exploratory Data Analysis (`EDA`), Data Visualization, Hypothesis Testing, KPI Analysis |
+| **Frameworks & Platforms** | Funnel & Cohort Analysis, `A/B Testing`, `ETL`, `DAX`, `AWS`, `API Integration`, Prompt Engineering |
+| **Security Analytics** | `Splunk` Log Analytics, Threat Context Integration (`OpenAI API`, `VirusTotal`, `MITRE ATT&CK`) |
+| **ML & Forecasting Awareness** | Regression, Classification, Clustering, Time-Series Analysis, Demand Forecasting |
 
 ---
 
-## Education
+## 💼 Work Experience
 
-* **BCA + Data Science** | Jyoti Nivas College Autonomous, Bengaluru (Graduated 05/2026)
-* **High School** | Bharati MHSS, Coimbatore, Tamil Nadu (Completed 05/2023)
-
----
-
-## Featured Projects
-
-### 1. B2B Manufacturing Supply Chain Network Flow & Inventory Placement Optimization
-An end-to-end supply chain BI and data engineering project optimizing inventory placement, network flow, and demand forecasting. Features a stateful Python ETL pipeline that normalizes raw, semi-structured Tally ERP ledger exports into a clean SQL Star Schema. Implements advanced SQL queries and DAX measures to track critical logistics KPIs including Out-of-Region (OOR) Shipment Rates and Inventory Placement Efficiency. Includes a daily rolling demand forecasting engine (Moving Averages and Linear Trend Regressions) with Z-score anomaly alerts, and designs a 5-page Power BI dashboard mock-up for safety stock margin buffers and delivery backlog root cause analysis.
-* [GitHub Repository](https://github.com/Monisa-Analyst/B2B-Supply-Chain-Analytics)
-* **Key Tech:** Python (Pandas, NumPy), SQL (Redshift/PostgreSQL), Power BI & DAX, Supply Chain Analytics, Demand Forecasting, Anomaly Detection, ETL Ingestion
-
-### 2. Sentinel: SOC Incident Ingestion & Triage Platform
-An automation platform designed to assist Tier-1 security analysts by parsing security alert logs, querying external threat intelligence databases (VirusTotal API v3), mapping events to MITRE ATT&CK techniques, and producing AI-summarized incident reports.
-* [Click to Open Live Web Application](https://share.streamlit.io/monisa-analyst/ai-soc-analyst/main/app.py)
-* [GitHub Repository](https://github.com/Monisa-Analyst/ai-soc-analyst)
-* **Key Tech:** Python, Streamlit, SQLite, VirusTotal API, OpenAI API (gpt-3.5-turbo), Compliance Logging (JSONL)
-
-### 3. CareMetrics: Hospital Patient Analytics & Operational Insights
-An end-to-end data analytics and business intelligence platform that normalizes raw patient admissions records into a SQLite star schema database. Features an automated ingestion engine with fuzzy column mapping and a 9-point data quality audit gate. Includes a multi-page interactive Streamlit dashboard displaying executive KPI summaries, workload ranking analytics using SQL Window Functions and CTEs, and a live data submission interface.
-* [Click to Open Live Web Application](https://share.streamlit.io/monisa-analyst/hospital-patient-analytics/main/src/app.py)
-* [GitHub Repository](https://github.com/Monisa-Analyst/hospital-patient-analytics)
-* **Key Tech:** Python, Pandas, SQLite, Data Quality Engineering, Streamlit, Plotly, SQL (CTEs, Window Functions, Joins)
-
-### 4. FinSight: Financial Performance & Profitability Analytics
-An end-to-end corporate financial analytics and business intelligence platform that ingests transactional batches, performs data quality audits, and reconciles monthly budgets. FinSight replaces traditional SQL databases with a formula-driven Excel backend (financial_analysis.xlsx) and a documented Power BI Star Schema integration. Features a multi-page Streamlit dashboard driven by Pandas analytics, a 9-point ingestion quality gate, a dedicated Power BI / DAX measure showcase (Total Revenue, MoM Growth, Net Revenue Retention cohorts, and invoicing conversion rate), and programmatically compiled report sheets driven by dynamic Excel formulas (SUMIFS, XLOOKUP, INDEX & MATCH).
-* <a href="https://share.streamlit.io/monisa-analyst/financial-performance-analytics/main/src/app.py/" rel="noreferrer" target="_blank">Click to Open Live Web Application</a>
-* [GitHub Repository](https://github.com/Monisa-Analyst/financial-performance-analytics)
-* **Key Tech:** Python, openpyxl (Excel modeling), Power BI & DAX, Pandas (Aggregation & Analytics), Streamlit, Plotly, Data Quality Engineering
+### 🔹 **Data Analyst Intern** — *Anand Engineering* `Bengaluru, India`
+*`04/2026 – 07/2026`*
+- Built a SQL-based data quality framework to validate records and catch data errors before reporting.
+- Automated validation and reconciliation workflows, **reducing reporting discrepancies by 30%**.
+- Built SQL-based quality checks that caught **200+ data issues before publication**, keeping flawed data out of dashboards.
+- Created a data dictionary defining report metrics and fields, so reports used consistent definitions.
 
 ---
 
-## Contact & Connections
+### 🔹 **SOC Analyst Intern** — *World Sec* `Remote`
+*`08/2025 – 04/2026`*
+- Analyzed **10,000+ daily log records in Splunk** to surface security and operational trends.
+- Built interactive real-time monitoring dashboards integrating **OpenAI API**, **VirusTotal**, and **MITRE ATT&CK** feeds to add threat context to alerts.
 
-* **Email:** [monisa.asi@gmail.com](mailto:monisa.asi@gmail.com)
-* **LinkedIn:** [linkedin.com/in/monisa-l-333546366](https://www.linkedin.com/in/monisa-l-333546366)
-* **GitHub:** [github.com/Monisa-Analyst](https://github.com/Monisa-Analyst)
+---
+
+### 🔹 **Data Analysis Intern** — *Subhash Interiors* `Bengaluru, India`
+*`06/2025 – 07/2025`*
+- Cleaned and transformed business records using **Excel (Pivot Tables, XLOOKUP, INDEX-MATCH, Power Query)**, improving data accuracy.
+- Designed and maintained **5+ interactive Power BI dashboards** with DAX measures and KPI tracking, **reducing manual reporting effort by 40%**.
+- Conducted KPI and trend analysis on sales and operational data to support decision-making.
+- Automated data preparation and reporting workflows using Power Query, cutting report generation time.
+
+---
+
+## 📂 Featured Projects
+
+### 🚀 [B2B Manufacturing Sales & Customer Analytics Platform](https://github.com/Monisa-Analyst/B2B-Supply-Chain-Analytics)
+> **Technologies**: `SQL` | `Python` | `Power BI` | `DAX` | `Star Schema`
+- Built an end-to-end SQL, Python, and Power BI analytics pipeline on **1,839 transactions** using a star-schema data model, enabling reliable multi-table reporting across sales, customer, and inventory dimensions.
+- Performed **RFM, Pareto, and ABC analysis** to identify key customers and product optimization opportunities, feeding into a 5-page Power BI dashboard tracking sales and inventory performance.
+
+---
+
+### 💡 [AI-Assisted Financial Performance Analytics Platform](https://github.com/Monisa-Analyst/financial-performance-analytics)
+> **Technologies**: `Python` | `Streamlit` | `Excel` | `Power BI` | `DAX`
+- Analyzed **10,000+ financial transactions** using Excel, Python, and Streamlit for KPI reporting.
+- Built **Power BI DAX measures** and Excel models for revenue, budget, and retention tracking.
+
+---
+
+## 🎓 Education
+
+- 🎓 **BCA + Data Science** — *Jyoti Nivas College Autonomous, Bengaluru* *(05/2026)*
+- 🏫 **High School** — *Bharati MHSS, Coimbatore, Tamil Nadu* *(05/2023)*
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Monisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Monisa-Analyst&show_icons=true&theme=radial&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Monisa-Analyst&layout=compact&theme=radial&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*✨ Designed & Updated for Monisa L — Data Analyst Portfolio ✨*
+
+</div>
